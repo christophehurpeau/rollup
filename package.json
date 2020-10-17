@@ -140,7 +140,8 @@
         "require": "./dist/rollup.js",
         "import": "./dist/es/rollup.js"
       },
-      "default": "./dist/es/rollup.browser.js"
+      "default": "./dist/es/rollup.browser.js",
+      "./package.json": "./package.json",
     },
     "./dist/": "./dist/"
   },
